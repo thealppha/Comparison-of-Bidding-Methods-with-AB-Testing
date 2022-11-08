@@ -10,5 +10,3 @@ This dataset, which includes the website information of this company, includes i
 * **Click**: Number of clicks on the displayed ad
 * **Purchase**: Number of products purchased after ads clicked
 * **Earning**: Earnings after purchased products
-
-### ***Warning: I would like to state that I cannot share the dataset.***
