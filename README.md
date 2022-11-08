@@ -1,4 +1,4 @@
-# Comparison-of-Bidding-Methods-with-AB-Test
+# Comparison-of-Bidding-Methods-with-AB-Testing
 
 ## Business Problem
 Facebook recently introduced a new type of bid, average bidding, as an alternative to the current type of bidding called maximum bidding. A company has decided to test this new feature and wants to run an A/B test to see if average bidding converts more than maximum bidding. The success criterion of the company is Purchase. Therefore, it is necessary to focus on the Purchase metric for statistical tests.
